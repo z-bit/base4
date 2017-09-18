@@ -19,6 +19,6 @@ import { Component } from '@angular/core';
   `
 })
 export class CoreComponent {
-  base: String = 'Sitting on Base4';
+  base: String = 'Sitting on Base';
   core: String = 'Dummy-CoreModule';
 }
