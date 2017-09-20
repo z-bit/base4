@@ -35,6 +35,7 @@ The CoreModule will be replaced and refactored if necessary.
 	• yarn add @ngrx/router-store 
 	• yarn add @ngrx/store-devtools  
 	• yarn add @ngrx/db
+	• npm i -D jest
 	
 	• !! check if it still compiles, otherwise find out wht tool needs updating
 	    • npm i -g @angular/cli
