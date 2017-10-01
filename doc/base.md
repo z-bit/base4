@@ -36,6 +36,7 @@ The CoreModule will be replaced and refactored if necessary.
 	• yarn add @ngrx/store-devtools  
 	• yarn add ngrx-store-freeze
 	• yarn add @ngrx/db
+	• yarn add github:ngrx/entity-builds (will become: @ngrx/entity)
 	
 	• !! check if it still compiles, otherwise find out wht tool needs updating
 	    • npm i -g @angular/cli
@@ -47,6 +48,7 @@ The CoreModule will be replaced and refactored if necessary.
     • yarn add --dev jest	
     • yarn add --dev @types/jest
     • yarn add --dev jest-preset-angular
+    • yarn add --dev jasmine-marbles
 
 ***package.json***
 
