@@ -37,6 +37,7 @@ The CoreModule will be replaced and refactored if necessary.
 	• yarn add ngrx-store-freeze
 	• yarn add @ngrx/db
 	• yarn add github:ngrx/entity-builds (will become: @ngrx/entity)
+	• yarn add jspdf
 	
 	• !! check if it still compiles, otherwise find out wht tool needs updating
 	    • npm i -g @angular/cli
