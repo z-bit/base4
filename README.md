@@ -1,4 +1,7 @@
 [This is Home]()
+# [Core Application](./src/app/core/doc/core.md)
+What this Application is about.
+
 # base4
 Base of the base/core design
 * Base contains all external dependencies
@@ -9,9 +12,9 @@ Base of the base/core design
 
 ## [Angular-CLI](./doc/angular.md)
 The README.md that is automatically generated when you create a new app with ***ng new***.
+
 ## [Creation of Base](./doc/base.md)
 How this base was created and how to create a new up to date base.
-##  [Application](./src/app/core/doc/core.md)
-What this Application is about.
+
 ## [Build](./doc/build.md)
 What to do to let it go live.
